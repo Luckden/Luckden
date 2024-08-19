@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Luckden
-- 👀 I’m interested in Parallel Computing
-- 🌱 I’m currently learning Advanced Algorithms
-- 💞️ I’m looking to collaborate on AI Projects
+- 👀 I’m interested in Developing Algorithms
 - 📫 How to reach me cheahjityung@gmail.com
 - 😄 Pronouns: Sir
 - ⚡ Fun fact: Follow your intuition
